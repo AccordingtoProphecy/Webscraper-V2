@@ -4,7 +4,6 @@ import requests
 
 # Gets page and prints HTML, entirely for testing purposes at the moment
 page = requests.get("https://xkcd.com/")
-print(page.text)
 
 # Getting user input
 userNum = str(input("What is your phone number? "))
