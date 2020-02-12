@@ -4,6 +4,6 @@
 
 ### Developers:
 
-- Orion Capell
-- Stanley Shinault
-- Marcus Polk
+- Orion Capell: input
+- Stanley Shinault: algorithm
+- Marcus Polk: output
