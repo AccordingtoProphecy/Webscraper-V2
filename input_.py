@@ -1,7 +1,7 @@
 import time
 import requests
 from twilio.rest import Client
-#from bs4 import BeautifulSoup4
+from bs4 import BeautifulSoup4
 
 # Gets page
 page = requests.get("https://xkcd.com/")
