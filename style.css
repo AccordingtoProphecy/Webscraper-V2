@@ -1,3 +1,16 @@
-body {
-    background-color: gray;
+#title {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: sans-serif;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 3em;
+}
+
+#main {
+  text-align: center;
+  font-family: sans-serif;
 }
